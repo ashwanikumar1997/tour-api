@@ -1,0 +1,11 @@
+Install for the current win32-x64 runtime:
+npm install --platform=win32 --arch=x64 sharp
+
+-----------
+
+firstly remove sharp from package through -> then install npm -> after that npm install --platform=win32 --arch=x64 sharp
+secondly for bcrypt error i use latest bcryptjs and done the changes where bcrypt require..
+
+--------------
+
+mongodb community server download then connect econnrefused 127.0.0.1:27017 fix ||

@@ -1,0 +1,14 @@
+1. I've been testing the site and creating stylist accounts. Today i created one for Lael Barry. However, I've noticed when searching, that there are two accounts now from my one. One which displays the business name, and envyboxes, but says no posts. The other which displays all the other correct info, but not what I just stated for the previous page. This is a glitch and needs to be combined. Please see screenshots below... 
+
+2.Posting - I like the layout, but I think the design looks unfinished and not very sophisticated. I'd like the entire modal made slightly smaller.. it takes up so much of my screen that I have to scroll down and up just to hit post or move on to next page. This shouldn't be. Also... in my design.. i have the "Create Post" and four dots just above the right section as opposed to the entire modal. I think that will look cleaner and tighter. "create post" looks too tight to the edge too. 
+
+3.Post - the post sometimes does not look as if it posts. Which results in me hitting it again. And again. then next thing I know 6 posts are on my profile. Sometimes I'm waiting 30 seconds. Need this to be fixed and moving faster. 
+
+4.Image display - christian is going to fix the cropping issue so there's not lines or black edges around any of the pics. 
+
+5. Icons - not working on displaying on post details. please fix.
+6. Username, Stylist name, Business - Design is ok. I'd like the username and business name fonts to be a little smaller than they are now. Icon is not displaying AND i found on some posts JUSt stylist name and business name showed, rather than all three. It was at random and i posted them all at the same time. So for some reason some are working, others are not.
+
+(Mohit is changing username and business name size)
+
+4.
